@@ -1,5 +1,5 @@
 # DP4
-This notebook demonstrate the calculation of DP4 for nankakurine A (15a) according to the protocol reported by Goodman group<sup>1</sup>.
+This notebook demonstrates the calculation of DP4 for nankakurine A (15a) according to the protocol reported by Goodman group<sup>1</sup>.
 
 # Prerequisite
 1) Python 3+
