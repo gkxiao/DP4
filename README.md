@@ -1,7 +1,7 @@
 # DP4
-This notebook is a demo how to reproduce the DP4 calculation example from Goodman group's work<sup>1</sup>.
+This notebook demonstrate the calculation of DP4 for nankakurine A (15a) using the protocol from Goodman group's work<sup>1</sup>.
 
-# prerequisite
+# Prerequisite
 1) Python 3+
 2) scipy，numpy and sklearn, jupyter
 
