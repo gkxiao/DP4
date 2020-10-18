@@ -1,6 +1,8 @@
 # DP4
 This notebook demonstrates the calculation of DP4 for nankakurine A (15a) according to the protocol reported by Goodman group<sup>1</sup>.
 
+The RData file, Smith-DP4-example.RData, can be used to reproduce the procedure of the DP4 calculation by using he Student t Distribution.
+
 # Prerequisite
 1) Python 3+
 2) scipy，numpy and sklearn, jupyter
